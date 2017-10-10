@@ -6,15 +6,14 @@
   "dependencies": {
     "apollo-client": "^1.9.3",
     "choo": "^6.4.1",
+    "choo-log": "^7.2.1",
     "lodash": "^4.17.4",
     "sheetify": "^6.2.0",
     "todomvc-app-css": "^2.1.0",
     "todomvc-common": "^1.0.4"
   },
   "devDependencies": {
-    "babel-preset-es2040": "^1.1.1",
-    "babelify": "^7.3.0",
-    "bankai": "^9.0.0-rc3",
+    "browserify": "^14.4.0",
     "es2040": "^1.2.6"
   },
   "scripts": {
