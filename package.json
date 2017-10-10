@@ -18,7 +18,8 @@
     "es2040": "^1.2.6"
   },
   "scripts": {
-    "start": "budo . --open --live -- -t sheetify -t es2040 ",
+    "start": "budo . --open --live --dir public -- -t sheetify -t es2040",
+    "build": "mkdir publicbrowserify . -t sheetify -t es2040 > public/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
