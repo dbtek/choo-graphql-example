@@ -1,7 +1,7 @@
 {
-  "name": "choo-graphql",
+  "name": "choo-graphql-example",
   "version": "1.0.0",
-  "description": "Example Choo app with graphql",
+  "description": "Example todo app built with choo & apollo-client",
   "main": "src/app.js",
   "dependencies": {
     "apollo-client": "^1.9.3",

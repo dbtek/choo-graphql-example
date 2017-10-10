@@ -1,9 +1,9 @@
 <div align="center">
-  <h1>choo-graphql</h1>
+  <h1>choo-graphql-example</h1>
 </div>
 
 <div align="center">
-    Example app built with choo and apollo-client.
+    Example todo app built with choo and apollo-client.
 </div>
 
 ### Run
